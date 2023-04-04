@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Build a predictive model and predict the sales of each product from Big Mart',
+    description='Build a predictive model and predict the sales from supermarket store',
     author='Eric Oliveira',
     license='MIT',
 )
