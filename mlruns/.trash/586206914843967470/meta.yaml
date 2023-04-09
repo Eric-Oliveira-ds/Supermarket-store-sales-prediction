@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/586206914843967470
+creation_time: 1681079011551
+experiment_id: '586206914843967470'
+last_update_time: 1681080375389
+lifecycle_stage: active
+name: RandomForestRegressor - 09/04/2023 19:17:10
+tags: {}
