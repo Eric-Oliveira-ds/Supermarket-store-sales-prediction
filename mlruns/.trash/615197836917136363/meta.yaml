@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/615197836917136363
+creation_time: 1681254743789
+experiment_id: '615197836917136363'
+last_update_time: 1681258425976
+lifecycle_stage: active
+name: Sales prediction - modelos do Sklearn com parâmetros padrão
+tags: {}

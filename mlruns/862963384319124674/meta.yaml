@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/862963384319124674
-creation_time: 1681082521496
-experiment_id: '862963384319124674'
-last_update_time: 1681082521496
-lifecycle_stage: active
-name: RandomForestRegressor_gridsearch - 09/04/2023 20:15:22

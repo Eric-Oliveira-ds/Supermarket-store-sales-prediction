@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/743805841905472819
+creation_time: 1681258504824
+experiment_id: '743805841905472819'
+last_update_time: 1681259822007
+lifecycle_stage: active
+name: Modelos do Sklearn com parâmetros padrão - treino e validação
+tags: {}
