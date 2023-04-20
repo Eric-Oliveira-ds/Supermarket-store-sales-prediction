@@ -1,4 +1,4 @@
-big-mart-sales-prediction
+Super-market-store-sales-prediction
 ==============================
 
 Build a predictive model and predict the sales from supermarket store
