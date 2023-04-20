@@ -86,3 +86,11 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# MLflow
+mlruns/
+mlruns*
+*mlruns
+mlartifacts/
+*mlartifacts
+mlartifacts*
