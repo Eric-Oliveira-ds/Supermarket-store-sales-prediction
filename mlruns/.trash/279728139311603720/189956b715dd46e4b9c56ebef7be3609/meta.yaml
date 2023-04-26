@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/189956b715dd46e4b9c56ebef7be3609/artifacts
+end_time: 1681339754923
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 189956b715dd46e4b9c56ebef7be3609
+run_name: unequaled-flea-669
+run_uuid: 189956b715dd46e4b9c56ebef7be3609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339751391
+status: 3
+tags: []
+user_id: erico

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/866653807403240832/89a119f718464462adbcbaef888b6e91/artifacts
+end_time: 1681343253492
+entry_point_name: ''
+experiment_id: '866653807403240832'
+lifecycle_stage: active
+run_id: 89a119f718464462adbcbaef888b6e91
+run_name: Ridge - 12/04/2023 20:47:28
+run_uuid: 89a119f718464462adbcbaef888b6e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681343249795
+status: 3
+tags: []
+user_id: erico

@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/698990804008952549
+creation_time: 1681344370216
+experiment_id: '698990804008952549'
+last_update_time: 1681344504638
+lifecycle_stage: active
+name: Modelos do Sklearn com hiperparâmetros tunados - treino e validação
+tags: {}

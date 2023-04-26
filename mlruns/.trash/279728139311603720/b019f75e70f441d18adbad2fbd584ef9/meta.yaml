@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/b019f75e70f441d18adbad2fbd584ef9/artifacts
+end_time: 1681339751368
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: b019f75e70f441d18adbad2fbd584ef9
+run_name: redolent-foal-350
+run_uuid: b019f75e70f441d18adbad2fbd584ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339747767
+status: 3
+tags: []
+user_id: erico

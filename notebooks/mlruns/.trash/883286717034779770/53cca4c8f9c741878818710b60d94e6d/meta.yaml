@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/883286717034779770/53cca4c8f9c741878818710b60d94e6d/artifacts
+end_time: 1681933802919
+entry_point_name: ''
+experiment_id: '883286717034779770'
+lifecycle_stage: active
+run_id: 53cca4c8f9c741878818710b60d94e6d
+run_name: SVR - 19/04/2023 16:49:58
+run_uuid: 53cca4c8f9c741878818710b60d94e6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681933799290
+status: 3
+tags: []
+user_id: erico

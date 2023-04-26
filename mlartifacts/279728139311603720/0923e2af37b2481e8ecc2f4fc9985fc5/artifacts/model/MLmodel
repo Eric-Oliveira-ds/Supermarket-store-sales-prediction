@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.2.2
+model_uuid: 9d36ad5f3fce403d9de1d46a5fc4e78d
+run_id: 0923e2af37b2481e8ecc2f4fc9985fc5
+signature:
+  inputs: '[{"name": "Store ID ", "type": "long"}, {"name": "Store_Area", "type":
+    "long"}, {"name": "Items_Available", "type": "long"}, {"name": "Daily_Customer_Count",
+    "type": "long"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2023-04-12 22:50:29.696786'

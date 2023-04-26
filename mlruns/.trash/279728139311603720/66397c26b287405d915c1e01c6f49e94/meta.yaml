@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/66397c26b287405d915c1e01c6f49e94/artifacts
+end_time: 1681339727563
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 66397c26b287405d915c1e01c6f49e94
+run_name: loud-mule-70
+run_uuid: 66397c26b287405d915c1e01c6f49e94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339720048
+status: 3
+tags: []
+user_id: erico

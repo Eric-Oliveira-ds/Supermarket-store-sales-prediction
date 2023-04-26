@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/135602658176405573/62a646aa4546443e8483a827fa13ac08/artifacts
+end_time: 1682172109606
+entry_point_name: ''
+experiment_id: '135602658176405573'
+lifecycle_stage: active
+run_id: 62a646aa4546443e8483a827fa13ac08
+run_name: xgboost_opt_roi - 22/04/2023 11:01:44
+run_uuid: 62a646aa4546443e8483a827fa13ac08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682172105635
+status: 3
+tags: []
+user_id: erico

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/699768736956862083/75b05fcfe51849da817374234ad837a7/artifacts
+end_time: 1682347837087
+entry_point_name: ''
+experiment_id: '699768736956862083'
+lifecycle_stage: active
+run_id: 75b05fcfe51849da817374234ad837a7
+run_name: RandomForestRegressor_opt - 24/04/2023 11:50:32
+run_uuid: 75b05fcfe51849da817374234ad837a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682347832834
+status: 3
+tags: []
+user_id: erico

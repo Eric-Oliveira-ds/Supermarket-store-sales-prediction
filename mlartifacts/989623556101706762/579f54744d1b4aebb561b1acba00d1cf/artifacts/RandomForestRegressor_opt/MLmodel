@@ -1,0 +1,19 @@
+artifact_path: RandomForestRegressor_opt
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.2.2
+model_uuid: 055c31c918dd47e48e9734f9f924bf3d
+run_id: 579f54744d1b4aebb561b1acba00d1cf
+utc_time_created: '2023-04-26 18:26:19.101687'

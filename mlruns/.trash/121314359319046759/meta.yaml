@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/121314359319046759
+creation_time: 1682359704947
+experiment_id: '121314359319046759'
+last_update_time: 1682376985474
+lifecycle_stage: active
+name: Modelos com hiperparâmetros tunados - treino e validação
+tags: {}

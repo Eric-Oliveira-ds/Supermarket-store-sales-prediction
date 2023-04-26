@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/2574dddeb91e4cf69b30ce4e172980da/artifacts
+end_time: 1681339797272
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 2574dddeb91e4cf69b30ce4e172980da
+run_name: skittish-snail-352
+run_uuid: 2574dddeb91e4cf69b30ce4e172980da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339793797
+status: 3
+tags: []
+user_id: erico

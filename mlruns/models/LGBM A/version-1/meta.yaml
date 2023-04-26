@@ -1,0 +1,12 @@
+creation_timestamp: 1682296636230
+current_stage: Production
+description: ''
+last_updated_timestamp: 1682296796135
+name: LGBM A
+run_id: d4f15447614f49ff887bbfd56772b3f3
+run_link: ''
+source: mlflow-artifacts:/428781742963365923/d4f15447614f49ff887bbfd56772b3f3/artifacts/lgbm_opt
+status: READY
+status_message: null
+user_id: null
+version: 1

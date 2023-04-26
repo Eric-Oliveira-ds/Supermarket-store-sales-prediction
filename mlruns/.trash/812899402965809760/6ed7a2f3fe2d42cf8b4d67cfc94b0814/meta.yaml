@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812899402965809760/6ed7a2f3fe2d42cf8b4d67cfc94b0814/artifacts
+end_time: 1682001494155
+entry_point_name: ''
+experiment_id: '812899402965809760'
+lifecycle_stage: active
+run_id: 6ed7a2f3fe2d42cf8b4d67cfc94b0814
+run_name: XGBRegressor - 20/04/2023 11:38:08
+run_uuid: 6ed7a2f3fe2d42cf8b4d67cfc94b0814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682001489926
+status: 3
+tags: []
+user_id: erico

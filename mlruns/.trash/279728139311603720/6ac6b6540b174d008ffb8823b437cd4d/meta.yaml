@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/6ac6b6540b174d008ffb8823b437cd4d/artifacts
+end_time: 1681339828885
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 6ac6b6540b174d008ffb8823b437cd4d
+run_name: loud-croc-20
+run_uuid: 6ac6b6540b174d008ffb8823b437cd4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339824849
+status: 3
+tags: []
+user_id: erico

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/425431377685850894/6ffba07a91f542f790311cc05728fec5/artifacts
+end_time: 1681909069310
+entry_point_name: ''
+experiment_id: '425431377685850894'
+lifecycle_stage: active
+run_id: 6ffba07a91f542f790311cc05728fec5
+run_name: LinearRegression - 19/04/2023 09:57:41
+run_uuid: 6ffba07a91f542f790311cc05728fec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681909062418
+status: 3
+tags: []
+user_id: erico

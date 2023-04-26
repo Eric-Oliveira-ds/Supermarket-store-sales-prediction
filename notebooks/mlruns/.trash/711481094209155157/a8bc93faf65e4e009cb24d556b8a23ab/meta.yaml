@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/711481094209155157/a8bc93faf65e4e009cb24d556b8a23ab/artifacts
+end_time: 1681838708450
+entry_point_name: ''
+experiment_id: '711481094209155157'
+lifecycle_stage: active
+run_id: a8bc93faf65e4e009cb24d556b8a23ab
+run_name: CatBoostRegressor - 18/04/2023 14:24:52
+run_uuid: a8bc93faf65e4e009cb24d556b8a23ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681838704612
+status: 3
+tags: []
+user_id: erico

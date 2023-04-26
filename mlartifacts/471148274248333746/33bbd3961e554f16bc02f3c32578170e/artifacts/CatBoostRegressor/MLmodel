@@ -1,0 +1,19 @@
+artifact_path: CatBoostRegressor
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.2.2
+model_uuid: f19097a449304485870637243f54d0c2
+run_id: 33bbd3961e554f16bc02f3c32578170e
+utc_time_created: '2023-04-26 18:20:59.594413'

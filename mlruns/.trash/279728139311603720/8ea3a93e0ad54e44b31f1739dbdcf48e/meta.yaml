@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/8ea3a93e0ad54e44b31f1739dbdcf48e/artifacts
+end_time: 1681339765676
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 8ea3a93e0ad54e44b31f1739dbdcf48e
+run_name: flawless-squid-37
+run_uuid: 8ea3a93e0ad54e44b31f1739dbdcf48e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339762220
+status: 3
+tags: []
+user_id: erico

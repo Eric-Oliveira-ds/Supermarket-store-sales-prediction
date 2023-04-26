@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/746363982356260717/dc7d474473214b47a6596cc2251d1406/artifacts
+end_time: 1682001771518
+entry_point_name: ''
+experiment_id: '746363982356260717'
+lifecycle_stage: active
+run_id: dc7d474473214b47a6596cc2251d1406
+run_name: Lasso_opt - 20/04/2023 11:42:46
+run_uuid: dc7d474473214b47a6596cc2251d1406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682001767458
+status: 3
+tags: []
+user_id: erico

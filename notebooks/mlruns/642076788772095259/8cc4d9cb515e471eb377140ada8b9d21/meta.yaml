@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/642076788772095259/8cc4d9cb515e471eb377140ada8b9d21/artifacts
+end_time: 1681937292409
+entry_point_name: ''
+experiment_id: '642076788772095259'
+lifecycle_stage: active
+run_id: 8cc4d9cb515e471eb377140ada8b9d21
+run_name: XGBRegressor - 19/04/2023 17:48:07
+run_uuid: 8cc4d9cb515e471eb377140ada8b9d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681937288711
+status: 3
+tags: []
+user_id: erico

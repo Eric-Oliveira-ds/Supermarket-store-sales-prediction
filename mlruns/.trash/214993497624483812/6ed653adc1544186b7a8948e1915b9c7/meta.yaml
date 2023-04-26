@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/214993497624483812/6ed653adc1544186b7a8948e1915b9c7/artifacts
+end_time: 1681996958953
+entry_point_name: ''
+experiment_id: '214993497624483812'
+lifecycle_stage: active
+run_id: 6ed653adc1544186b7a8948e1915b9c7
+run_name: LinearRegression - 20/04/2023 10:22:33
+run_uuid: 6ed653adc1544186b7a8948e1915b9c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996954856
+status: 3
+tags: []
+user_id: erico

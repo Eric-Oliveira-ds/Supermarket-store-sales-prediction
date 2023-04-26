@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/883286717034779770/0ce39bcb80d24ae8acb5137b14900ce9/artifacts
+end_time: 1681933788981
+entry_point_name: ''
+experiment_id: '883286717034779770'
+lifecycle_stage: active
+run_id: 0ce39bcb80d24ae8acb5137b14900ce9
+run_name: Ridge - 19/04/2023 16:49:44
+run_uuid: 0ce39bcb80d24ae8acb5137b14900ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681933785111
+status: 3
+tags: []
+user_id: erico

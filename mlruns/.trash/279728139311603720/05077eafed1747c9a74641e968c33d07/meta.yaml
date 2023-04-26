@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/05077eafed1747c9a74641e968c33d07/artifacts
+end_time: 1681339769129
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 05077eafed1747c9a74641e968c33d07
+run_name: nimble-sow-83
+run_uuid: 05077eafed1747c9a74641e968c33d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339765701
+status: 3
+tags: []
+user_id: erico

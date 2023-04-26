@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/400073573923760354/8738fdba90af4f5ba3f7eb05924fbe55/artifacts
+end_time: 1681780449574
+entry_point_name: ''
+experiment_id: '400073573923760354'
+lifecycle_stage: active
+run_id: 8738fdba90af4f5ba3f7eb05924fbe55
+run_name: Elastic_opt - 17/04/2023 22:14:04
+run_uuid: 8738fdba90af4f5ba3f7eb05924fbe55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681780445816
+status: 3
+tags: []
+user_id: erico

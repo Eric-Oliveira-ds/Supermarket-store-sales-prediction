@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/319340ca8a2542e288257c4cb78066bb/artifacts
+end_time: 1681339793774
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 319340ca8a2542e288257c4cb78066bb
+run_name: efficient-duck-429
+run_uuid: 319340ca8a2542e288257c4cb78066bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339790310
+status: 3
+tags: []
+user_id: erico

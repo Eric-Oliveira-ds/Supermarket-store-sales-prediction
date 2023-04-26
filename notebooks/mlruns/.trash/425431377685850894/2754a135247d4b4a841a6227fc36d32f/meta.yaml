@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/425431377685850894/2754a135247d4b4a841a6227fc36d32f/artifacts
+end_time: 1681909084476
+entry_point_name: ''
+experiment_id: '425431377685850894'
+lifecycle_stage: active
+run_id: 2754a135247d4b4a841a6227fc36d32f
+run_name: Lasso - 19/04/2023 09:57:59
+run_uuid: 2754a135247d4b4a841a6227fc36d32f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681909080548
+status: 3
+tags: []
+user_id: erico

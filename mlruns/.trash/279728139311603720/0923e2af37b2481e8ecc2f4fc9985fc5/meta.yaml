@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/0923e2af37b2481e8ecc2f4fc9985fc5/artifacts
+end_time: 1681339833193
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 0923e2af37b2481e8ecc2f4fc9985fc5
+run_name: illustrious-gnat-582
+run_uuid: 0923e2af37b2481e8ecc2f4fc9985fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339828910
+status: 3
+tags: []
+user_id: erico

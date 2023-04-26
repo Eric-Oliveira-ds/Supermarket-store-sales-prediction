@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/255043903341362737/6041a11734f944b2915157b7385140a9/artifacts
+end_time: 1682297871653
+entry_point_name: ''
+experiment_id: '255043903341362737'
+lifecycle_stage: active
+run_id: 6041a11734f944b2915157b7385140a9
+run_name: catboost_opt - 23/04/2023 21:57:45
+run_uuid: 6041a11734f944b2915157b7385140a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682297867268
+status: 3
+tags: []
+user_id: erico

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/778240701041087650/10f25aef931743e2a7d0376e2267e747/artifacts
+end_time: 1682000898457
+entry_point_name: ''
+experiment_id: '778240701041087650'
+lifecycle_stage: active
+run_id: 10f25aef931743e2a7d0376e2267e747
+run_name: LGBMRegressor - 20/04/2023 11:28:12
+run_uuid: 10f25aef931743e2a7d0376e2267e747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682000894037
+status: 3
+tags: []
+user_id: erico

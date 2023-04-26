@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/362529367115240627
+creation_time: 1681339704670
+experiment_id: '362529367115240627'
+last_update_time: 1681838589496
+lifecycle_stage: active
+name: Modelos do Sklearn com parâmetros padrão - treino e validação
+tags: {}

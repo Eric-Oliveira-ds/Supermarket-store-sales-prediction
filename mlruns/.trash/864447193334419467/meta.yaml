@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/864447193334419467
+creation_time: 1682344134492
+experiment_id: '864447193334419467'
+last_update_time: 1682347305003
+lifecycle_stage: active
+name: Modelos com parâmetros padrão - treino e validação
+tags: {}

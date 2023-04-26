@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/f54796ed298a4fb992e47f1b9c88954b/artifacts
+end_time: 1681339824821
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: f54796ed298a4fb992e47f1b9c88954b
+run_name: useful-turtle-355
+run_uuid: f54796ed298a4fb992e47f1b9c88954b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339820879
+status: 3
+tags: []
+user_id: erico

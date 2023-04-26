@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/289191702835776630
+creation_time: 1681344456531
+experiment_id: '289191702835776630'
+last_update_time: 1681344502219
+lifecycle_stage: active
+name: Melhor modelo apresentado do Sklearn - teste
+tags: {}

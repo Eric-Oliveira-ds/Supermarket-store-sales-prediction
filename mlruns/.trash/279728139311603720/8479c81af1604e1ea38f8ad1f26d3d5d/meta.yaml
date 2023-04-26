@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/8479c81af1604e1ea38f8ad1f26d3d5d/artifacts
+end_time: 1681339790287
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: 8479c81af1604e1ea38f8ad1f26d3d5d
+run_name: unruly-zebra-164
+run_uuid: 8479c81af1604e1ea38f8ad1f26d3d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339786808
+status: 3
+tags: []
+user_id: erico

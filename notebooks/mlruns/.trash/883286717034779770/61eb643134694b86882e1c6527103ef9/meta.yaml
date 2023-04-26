@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/erico/Documents/projeto-regressao/Supermarket-store-sales-prediction/notebooks/mlruns/883286717034779770/61eb643134694b86882e1c6527103ef9/artifacts
+end_time: 1681933798364
+entry_point_name: ''
+experiment_id: '883286717034779770'
+lifecycle_stage: active
+run_id: 61eb643134694b86882e1c6527103ef9
+run_name: ElasticNet - 19/04/2023 16:49:53
+run_uuid: 61eb643134694b86882e1c6527103ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681933794496
+status: 3
+tags: []
+user_id: erico

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/281723503743387204/ce4e38d5e4764aacafd93772d514d6f0/artifacts
+end_time: 1682204122928
+entry_point_name: ''
+experiment_id: '281723503743387204'
+lifecycle_stage: active
+run_id: ce4e38d5e4764aacafd93772d514d6f0
+run_name: CatBoostRegressor - 22/04/2023 19:55:13
+run_uuid: ce4e38d5e4764aacafd93772d514d6f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682204119521
+status: 3
+tags: []
+user_id: erico

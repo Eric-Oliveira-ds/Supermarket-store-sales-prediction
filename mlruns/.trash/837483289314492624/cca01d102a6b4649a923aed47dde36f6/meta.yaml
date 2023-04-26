@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/837483289314492624/cca01d102a6b4649a923aed47dde36f6/artifacts
+end_time: 1682359674903
+entry_point_name: ''
+experiment_id: '837483289314492624'
+lifecycle_stage: active
+run_id: cca01d102a6b4649a923aed47dde36f6
+run_name: SVR - 24/04/2023 15:07:50
+run_uuid: cca01d102a6b4649a923aed47dde36f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682359671067
+status: 3
+tags: []
+user_id: erico

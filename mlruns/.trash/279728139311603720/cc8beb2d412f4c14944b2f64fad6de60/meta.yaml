@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/279728139311603720/cc8beb2d412f4c14944b2f64fad6de60/artifacts
+end_time: 1681339808192
+entry_point_name: ''
+experiment_id: '279728139311603720'
+lifecycle_stage: active
+run_id: cc8beb2d412f4c14944b2f64fad6de60
+run_name: skittish-goat-661
+run_uuid: cc8beb2d412f4c14944b2f64fad6de60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681339804609
+status: 3
+tags: []
+user_id: erico
