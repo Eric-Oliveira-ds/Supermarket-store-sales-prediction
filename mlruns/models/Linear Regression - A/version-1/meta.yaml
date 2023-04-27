@@ -1,0 +1,12 @@
+creation_timestamp: 1682536989700
+current_stage: Production
+description: ''
+last_updated_timestamp: 1682537003176
+name: Linear Regression - A
+run_id: 24b4ef04c3324d479406f7ea27ffe0b1
+run_link: ''
+source: mlflow-artifacts:/198303672906935220/24b4ef04c3324d479406f7ea27ffe0b1/artifacts/linear_regression_opt_roi
+status: READY
+status_message: null
+user_id: null
+version: 1
