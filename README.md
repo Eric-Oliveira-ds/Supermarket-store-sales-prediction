@@ -5,10 +5,7 @@ Creating a data-driven solution to reduce costs and increase revenue for superma
 
 ``Medium article to explain the entire project developed:`` [link pending]()
 
-Dashboard for users to get predictions:
-
-<iframe title="supermarket_dashboard" width="600" height="373.5" src="https://app.powerbi.com/groups/me/reports/3e8210f0-45ee-4db0-98fe-d7bfadc03d67?ctid=9bb5af77-6064-4190-bf58-28d7dd1ca1f2&pbi_source=linkShare" frameborder="0" allowFullScreen="true"></iframe>
-
+``Dashboard for users to get predictions:`` [link](https://app.powerbi.com/groups/me/reports/3e8210f0-45ee-4db0-98fe-d7bfadc03d67?ctid=9bb5af77-6064-4190-bf58-28d7dd1ca1f2&pbi_source=linkShare)
 
 Requirements to replicate the project:
 - Create a virtual environment on your machine
