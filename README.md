@@ -5,7 +5,7 @@ Creating a data-driven solution to reduce costs and increase revenue for superma
 
 ``Medium article to explain the entire project developed:`` [link pending]()
 
-Dashboard for users to get predictions::
+Dashboard for users to get predictions:
 
 <iframe title="supermarket_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWViYmMwMDYtNzhkYS00ZDM0LWJkYmYtNDllNjI0ZDI1ZGMwIiwidCI6IjliYjVhZjc3LTYwNjQtNDE5MC1iZjU4LTI4ZDdkZDFjYTFmMiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
