@@ -42,8 +42,8 @@ def calculate_model_revenue(df:pd.DataFrame):
 
     print(f'O baseline de média previu {baseline_return_formatted} em relação as vendas reais.')
     print(f'O modelo previu {model_return_formatted} em relação as vendas reais.')
-    print(f'A diferença percentual entre o modelo e as vendas reais são de {abs(diff_percent_model_store_sales):.2f}%')
-    print(f'A diferença percentual entre o baseline de média e as vendas reais são de {abs(diff_percent_baseline_store_sales):.2f}%')
+    print(f'A diferença percentual entre o modelo e as vendas reais são de {diff_percent_model_store_sales:.2f}%')
+    print(f'A diferença percentual entre o baseline de média e as vendas reais são de {diff_percent_baseline_store_sales:.2f}%')
 
     if model_return > baseline_return:
         print(f'O modelo consegue recuperar {diff_model_baseline_formatted} que eram perdidos ao usar a média como previsão de vendas!')

@@ -1,0 +1,12 @@
+creation_timestamp: 1683331107688
+current_stage: None
+description: ''
+last_updated_timestamp: 1683331107688
+name: Kmeans - A
+run_id: b890ca82406845518c440af7491028c4
+run_link: ''
+source: mlflow-artifacts:/208210156293209458/b890ca82406845518c440af7491028c4/artifacts/Kmeans_12
+status: READY
+status_message: null
+user_id: null
+version: 2
