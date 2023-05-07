@@ -45,10 +45,10 @@ def home():
 def predict():
     logging.info("Extraindo base de dados do banco de dados e calculando a média das vendas dos últimos 30 dias")
     # Extração
-    df1, mean_sales_30 = extract_database(cur=cur, conn=conn)
+    df1, mean_sales = extract_database(cur=cur, conn=conn)
     logging.info("Transformando base de dados para adequar-se aos modelos de machine learning e aplicando previsões e avaliações")
     # Transformação e previsão
-    df1 = predict_and_evaluate(df1=df1, km_model=km_model, lr_model=lr_model, mean_sales_30=mean_sales_30)
+    df1 = predict_and_evaluate(df1=df1, km_model=km_model, lr_model=lr_model, mean_sales=mean_sales)
     logging.info("Carregando base de dados com as vendas previstas para o banco de dados")
     # Carga
     send_revenue_and_load_database(df1=df1, cur=cur, conn=conn)

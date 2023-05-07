@@ -3,7 +3,7 @@ import mlflow.sklearn
 import pandas as pd
 from utils import mean_absolute_error, mean_absolute_percentage_error, root_mean_squared_error
 
-def predict_and_evaluate(df1:pd.DataFrame, km_model, lr_model, mean_sales_30)->pd.DataFrame:
+def predict_and_evaluate(df1:pd.DataFrame, km_model, lr_model, mean_sales)->pd.DataFrame:
 
     # Prever cluster
     cluster = km_model.predict(df1.drop(['store_id','sales_date','store_sales'], axis=1))
@@ -17,7 +17,7 @@ def predict_and_evaluate(df1:pd.DataFrame, km_model, lr_model, mean_sales_30)->p
     # adiciona previsão do modelo a base de produção
     df1['predict_store_sales'] = y_pred
     # adiciona previsão de média do baseline a base de teste original
-    df1['average_store_sales'] = int(mean_sales_30)
+    df1['average_store_sales'] = int(mean_sales)
 
     # adiciona as métricas técnicas ao dataframe, só teria estas métricas após ter a Target disponível, os dados em produção não teria esta Target store_sales para ser possível metrificar. 
     df1['mae_model'] = df1.apply(lambda x: mean_absolute_error(x['store_sales'], x['predict_store_sales']),axis=1) 
